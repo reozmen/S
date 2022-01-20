@@ -1,0 +1,51 @@
+.surveyform{
+    width: 50%;
+    margin:0px auto;
+    border: 3px solid black;}
+
+form{
+  padding-left: 10px;
+  
+}
+  
+  header{
+      text-align: center;
+      
+      
+  }
+  #name,#surname,#email{
+    margin-top: 10px;
+    
+  }
+
+
+       
+  .selectbox1,.selectbox2{
+      margin-top: 10px;
+
+  }
+
+
+  select{
+      margin-top: 10px;
+  }
+
+  .radio,.checkbox,.comment{
+      margin-top: 10px;
+      line-height: 36px
+  }
+
+
+
+
+
+#submit{
+    
+    font-size: 12px;
+    background-color: rgb(245, 245, 245);
+    border: 1px solid rgb(220, 220, 220);
+}
+
+.title{
+  font-weight: 600;
+}
